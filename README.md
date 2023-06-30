@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on NodeJS Projects
 - 📫 How to reach me shatilshahriar009@gmail.com
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ShatilKhan.ShatilKhan&left_color=green&right_color=red)
+![Profile Views](https://img.shields.io/github/followers/ShatilKhan?label=Profile%20Views&style=social)
+
 
 <!---
 ShatilKhan/ShatilKhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
