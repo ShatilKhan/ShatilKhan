@@ -8,6 +8,7 @@
 
 [![ShatilKhan's GitHub | Stats](https://stats.quine.sh/ShatilKhan/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShatilKhan)
 [![ShatilKhan's GitHub | Dependencies](https://stats.quine.sh/ShatilKhan/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShatilKhan)
+
 [![ShatilKhan's GitHub | Languages Over Time](https://stats.quine.sh/ShatilKhan/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShatilKhan)
 [![ShatilKhan's GitHub | Topics](https://stats.quine.sh/ShatilKhan/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShatilKhan)
 <!---
