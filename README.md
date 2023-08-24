@@ -7,6 +7,7 @@
    ![Profile Views](https://img.shields.io/github/followers/ShatilKhan?label=Profile%20Views&style=social)
 
 [![ShatilKhan's GitHub | Stats](https://stats.quine.sh/ShatilKhan/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShatilKhan)
+[![ShatilKhan's GitHub | Languages Over Time](https://stats.quine.sh/ShatilKhan/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShatilKhan)
 [![ShatilKhan's GitHub | Topics](https://stats.quine.sh/ShatilKhan/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShatilKhan)
 <!---
 ShatilKhan/ShatilKhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
