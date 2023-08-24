@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on cloud projects
 - 📫 How to reach me shatilshahriar009@gmail.com
 
-   ![Profile Views](https://img.shields.io/github/followers/ShatilKhan?label=Profile%20Views&style=social)
+![Profile Views](https://img.shields.io/github/followers/ShatilKhan?label=Profile%20Views&style=social)
 
 [![ShatilKhan's GitHub | Stats](https://stats.quine.sh/ShatilKhan/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShatilKhan)
 [![ShatilKhan's GitHub | Dependencies](https://stats.quine.sh/ShatilKhan/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShatilKhan)
