@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on cloud projects
 - 📫 How to reach me shatilshahriar009@gmail.com
 
-![Profile Views](https://img.shields.io/github/followers/ShatilKhan?label=Profile%20Views&style=social)
+![](https://komarev.com/ghpvc/?username=ShatilKhan&color=blueviolet&style=for-the-badge)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ShatilKhan&show_icons=true&theme=aura)
 
