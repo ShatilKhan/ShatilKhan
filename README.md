@@ -38,4 +38,36 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shatilkhan&show_icons=true&locale=en&layout=compact&theme=aura" alt="shatilkhan" /></p>
 
 
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://meshery.layer5.io/user/e001673e-bb32-4b5c-9029-7d86343bd54b?tab=badges">
+        <img src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor/hacktoberfest-contributor.png" width="150" height="200" alt="Hacktoberfest Contributor">
+      </a>
+    </td>
+    <td>
+      <a href="https://meshery.layer5.io/user/e001673e-bb32-4b5c-9029-7d86343bd54b?tab=badges">
+        <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="150" height="200" alt="First Design">
+      </a>
+    </td>
+    <td>
+      <a href="https://meshery.layer5.io/user/e001673e-bb32-4b5c-9029-7d86343bd54b?tab=badges">
+        <img src="https://badges.layer5.io/assets/badges/first-collaborator/first-collaborator.png" width="150" height="200" alt="GitOps with Friends">
+      </a>
+    </td>
+    <td>
+      <a href="https://meshery.layer5.io/user/e001673e-bb32-4b5c-9029-7d86343bd54b?tab=badges">
+        <img src="https://badges.layer5.io/assets/badges/community/community.png" width="150" height="200" alt="Community">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
 [![An image of @shatilkhan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shatilkhan)](https://holopin.io/@shatilkhan)
