@@ -9,7 +9,7 @@
 
 - 📝 I write articles on [my dev blog](https://dev.to/siren) 
 
-- 💬 Don't Ask me about **React , MongoDB** , I'm still a noob
+- 💬 Don't Ask me about **React , MongoDB** 
 
 - 📫 Don't email me @ **shatilshahriar009@gmail.com**
 
