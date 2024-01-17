@@ -15,6 +15,10 @@
 
 - 📄 My [Resume](https://drive.google.com/file/d/1rFIKZ2QI1GUR6y84T1LC1HrUmxMBmNxW/view?usp=sharing)
 
+- Beta Microsoft Learn Student Ambassador
+
+- AWS Cloud Captain
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
