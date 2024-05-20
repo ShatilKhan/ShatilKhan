@@ -13,7 +13,7 @@
 
 - 📫 Don't email me @ **shatilshahriar009@gmail.com**
 
-- 📄 My [Resume](https://drive.google.com/file/d/1rFIKZ2QI1GUR6y84T1LC1HrUmxMBmNxW/view?usp=sharing)
+- 📄 My [Resume](https://rxresu.me/shatilshahriar009/shahriar-shatil)
 
 - Beta Microsoft Learn Student Ambassador
 
