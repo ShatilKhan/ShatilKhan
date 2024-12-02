@@ -15,11 +15,11 @@
 
 - 📄 My [Resume](https://rxresu.me/shatilshahriar009/shahriar-shatil)
 
-- Beta Microsoft Learn Student Ambassador
+- 🛡️ Beta Microsoft Learn Student Ambassador
 
-- AWS Cloud Captain
+- 🌩️ AWS Cloud Captain
 
-- Going Bald
+- 👨🏻‍🦲 Going Bald
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
