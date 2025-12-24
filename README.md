@@ -5,11 +5,11 @@
 
 - 🔭 Exploring **Open Source**
 
-- 🌱 Learning **Blockchain**
+- 🌱 Learning **Networking**
 
 - 📝 I write articles on [my dev blog](https://dev.to/siren) 
 
-- 💬 Don't Ask me about **React , MongoDB** 
+- 💬 Don't Ask me about **React , Node.js** 
 
 - 📫 Don't email me @ **shatilshahriar009@gmail.com**
 
